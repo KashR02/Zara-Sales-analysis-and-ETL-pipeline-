@@ -5,4 +5,4 @@ Key features of this project
 1. Hands-on real-world dataset processing
 2. clear project structure
 3. connects business insights with data processing
-4. ETL wrokflow demonstration 
+4. ETL workflow demonstration 
